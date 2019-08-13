@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+  <html>
+  <head>
+    <title>My Travel Site</title>
+  </head>
+  <body>
+  <h1>Welcome to my Travel Site</h1>
+  <p>This site is all about where I want to travel</p>
+  <h2>Here are some places I'd like to visit:</h2>
+  <ul>
+  <li>
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/383px-Flag_of_Germany.svg.png" width="50">
+    <a href="https://www.germany.travel/en/index.html" target="_blank">Germany</a></li>
+  
+  <li>
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/383px-Flag_of_Italy.svg.png" width="50">
+    <a href="http://www.italia.it/en/home.html" target="_blank">Italy</a></li>
+  <li>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/383px-Flag_of_Australia_%28converted%29.svg.png" width="50">
+    <a href="https://www.australia.com/en" target="_blank">Australia</a></li>
+  <li>
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/383px-Flag_of_England.svg.png" width="50">
+    <a href="https://www.visitbritain.com/us/en/visitbritain" target="_blank">England</a></li>
+</ul>
+
+<table>
+<tr>
+  <th>Destination</th>
+  <th>Capital</th>
+  <th>Official Language</th>
+</tr>
+<tr>
+  <td>Germany</td>
+  <td>Berlin</td>
+  <td>German</td>
+</tr>
+<tr>
+  <td>Italy</td>
+  <td>Rome</td>
+  <td>Italian</td>
+</tr>
+<tr>
+  <td>Australia</td>
+  <td>Canberra</td>
+  <td>English</td>
+</tr>
+<tr>
+  <td>England</td>
+  <td>London</td>
+  <td>English</td>
+</tr>
+</table>
+  </body>
+  </html>

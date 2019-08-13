@@ -1,0 +1,47 @@
+h1, h2 {
+    color: dodgerblue;
+    font-family: Comic Sans MS; 
+}
+
+p {
+    color:deepskyblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+ul, li {
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighter;
+}
+
+th {
+    color: navy;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+    
+}
+
+td {
+    color: purple;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+a {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 18px;
+
+}
+
+a:visited {
+
+    font-family: Impact;
+    color: blue; 
+
+}
+
+a:hover {
+
+    color: red;
+}
