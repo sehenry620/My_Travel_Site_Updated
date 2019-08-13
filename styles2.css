@@ -4,39 +4,39 @@ h1, h2 {
 }
 
 p {
-    color:deepskyblue;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:black;
+    font-family: Comic Sans MS;
     
 }
 
 ul, li {
     color: blue;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-weight: lighter;
+    font-family: Comic Sans MS;
+    
 }
 
 th {
     color: navy;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Comic Sans MS;
 
     
 }
 
 td {
-    color: purple;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: blue;
+    font-family:Comic Sans MS;
 
 }
 
 a {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: Comic Sans MS;
     font-size: 18px;
 
 }
 
 a:visited {
 
-    font-family: Impact;
+    font-family: Comic Sans MS;
     color: blue; 
 
 }

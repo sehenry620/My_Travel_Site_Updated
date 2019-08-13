@@ -55,17 +55,17 @@ form {
 
   h1, h2 {
       color:blue;
-      font-family:verdana;
+      font-family:Comic Sans MS;
   }
 
   p{
       color:black;
-      font-family:verdana;
+      font-family:Comic Sans MS;
   }
 
   a:visited {
 
-    font-family: Impact;
+    font-family: Comic Sans MS;
     color: blue; 
 
 }
